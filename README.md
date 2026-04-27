@@ -7,14 +7,47 @@
   <a href="https://github.com/Youssefnsr5">GitHub</a>
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer;Building+Smart+Systems;Front-end+Developer;ICPC+Programmer" />
+</p>
+
 ---
 
 ## 👨🏻‍💻 About Me
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 - 🎓 Computer Science & Artificial Intelligence Student  
 - 🤖 Focused on building **AI systems and intelligent applications**  
 - 🌐 Front-end developer creating **modern responsive interfaces**  
 - 🧠 Competitive Programmer (ICPC & Codeforces)  
 - 🎯 Interested in **Machine Learning, Deep Learning, and Algorithms**  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 Falcon 9 NASA Project
+- 🚀 AI-based prediction system for rocket landing success  
+- 📊 Built using machine learning models and real-world dataset  
+- 🛠 Tech: Python, ML Algorithms  
+🔗 https://github.com/Youssefnsr5/-Falcon-9-NASA-Project  
+
+---
+
+### 🛒 E-commerce Landing Page
+- 💻 Responsive UI for online store  
+- 📱 Mobile-friendly design  
+- 🛠 Tech: HTML, CSS, JavaScript  
+🔗 https://github.com/Youssefnsr5/Landing_Page  
+
+---
+
+### 🎨 HTML & CSS Template
+- 🎯 Clean reusable UI template  
+- 📐 Built with Flexbox & Grid  
+- 🛠 Tech: HTML5, CSS3  
+🔗 https://github.com/Youssefnsr5/HTML_And-_CSS_Template_One  
 
 ---
 
@@ -47,32 +80,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔥 Falcon 9 NASA Project
-- 🚀 AI-based prediction system for rocket landing success  
-- 📊 Built using machine learning models and real-world dataset  
-- 🛠 Tech: Python, ML Algorithms  
-🔗 https://github.com/Youssefnsr5/-Falcon-9-NASA-Project  
-
----
-
-### 🛒 E-commerce Landing Page
-- 💻 Responsive UI for online store  
-- 📱 Mobile-friendly design  
-- 🛠 Tech: HTML, CSS, JavaScript  
-🔗 https://github.com/Youssefnsr5/Landing_Page  
-
----
-
-### 🎨 HTML & CSS Template
-- 🎯 Clean reusable UI template  
-- 📐 Built with Flexbox & Grid  
-- 🛠 Tech: HTML5, CSS3  
-🔗 https://github.com/Youssefnsr5/HTML_And-_CSS_Template_One  
-
----
-
 ## 🧠 Competitive Programming
 - 💻 Solving algorithmic problems using C++  
 - 🚀 Training for ICPC contests  
@@ -87,7 +94,11 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssefnsr5&theme=radical"/>
+</p>
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Youssefnsr5&show_icons=true&theme=dark"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefnsr5&layout=compact&theme=dark"/>
@@ -95,6 +106,13 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Youssefnsr5&theme=dark"/>
+</p>
+
+---
+
+## 🐍 Fun Zone
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
