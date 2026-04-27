@@ -51,6 +51,15 @@
 
 ---
 
+### ⚽ Lite Football
+Interactive football-based project built to simulate gameplay logic and UI interaction.
+
+🛠 Tech Stack: HTML | CSS | JavaScript  
+📂 Repo: https://github.com/Youssefnsr5/Lite-football-main
+
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
