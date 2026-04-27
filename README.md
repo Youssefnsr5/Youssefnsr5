@@ -1,59 +1,73 @@
-<h1 align="center"> Hi there, I'm <a href="#">Youssef Badawy Sidqi</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/youssef-badawi-96a615349">Youssef Badawy Sidqi</a> </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssef-badwi-sdqi-atia/">LinkedIn</a> - 
-  <a href="https://github.com/Youssefnsr5">GitHub</a> - 
-  <a href="#">Portfolio</a> - 
-  <a href="mailto:youssef.badawy.work@gmail.com">Contact me</a> 
+  <a href="https://www.linkedin.com/in/youssef-badawi-96a615349">LinkedIn</a> - 
+  <a href="mailto:nayoussf6@gmail.com">Email 1</a> - 
+  <a href="mailto:youssef.badawy500@gmail.com">Email 2</a> -
+  <a href="https://github.com/Youssefnsr5">GitHub</a>
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ **Front-End Web Developer | AI & ML/DL Engineer** <br>
-🎓 Student at Faculty of Computers & Artificial Intelligence <br>
-🏆 **Competitive Programmer:** Solving problems on **ICPC** & **Codeforces** (C++, Python)<br>
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/youssef-badwi-sdqi-atia/) or [Email](mailto:youssef.badawy.work@gmail.com)<br>
-👯 I'm open to collaborations on Open Source and AI projects.<br>
-💬 Ask me about: Machine Learning, Data Science, or Web Development.<br>
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ **Front-end Web Developer | AI & Machine Learning Engineer** <br>
+🚀 Passionate about building intelligent systems and responsive web interfaces.<br>
+🏆 **Competitive Programmer:** Active on **ICPC** and **Codeforces**. <br>
+📫 How to reach me: [nayoussf6@gmail.com](mailto:nayoussf6@gmail.com) or [youssef.badawy500@gmail.com](mailto:youssef.badawy500@gmail.com)<br>
+👯 Join my opensource community [recodehive](https://i.recodehive.com/join)<br>
+💬 Ask me about SEO/Data Science.<br>
 
-<b>🛠 Tech Stack/ Certifications</b><br><br>
-**Languages:** <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
-<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; <br>
+<b>🛠 Tech Stack/ Skills</b><br><br>
+Languages: 
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;<br>
 
-**Frameworks & Libraries:** <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
+Frameworks and Libraries: 
+<img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
+<img src="https://img.shields.io/badge/-Sklearn-F7931E?logo=scikit-learn&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat">&nbsp;<br>
 
-**Tools & Platforms:** <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
-<img src="https://img.shields.io/badge/-Cisco-049BCE?logo=cisco&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-VS%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+Tools and Platforms: 
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Codeforces-1f8acb?logo=codeforces&logoColor=white&style=flat">&nbsp;
 
-## 🏆 Competitive Programming Stats
-* **Codeforces:** [Youssefnsr5](https://codeforces.com/profile/Youssefnsr5)
-* **ICPC:** Active Participant & Problem Solver
-
-<details open>
+<details open>	
 <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/Youssefnsr5">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssefnsr5&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefnsr5&layout=compact&theme=dark" />
-</a>
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Youssefnsr5&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefnsr5&layout=compact&theme=dark" />
+</p>
 </details> 
 
-<details open>
-<summary><b>📚 Featured Projects</b></summary><br>
+<details>	
+    <summary><b>📚 Recent Projects/ Activity</b></summary><br>
 
-✨ **Smart Multi-Layer Anti-Drone System** - AI-powered signal classification & detection.<br>
-✨ **Falcon 9 NASA Project** - Developed for NASA Space Apps Challenge 2025.<br>
-✨ **Responsive E-commerce Landing Page** - Modern UI/UX design with HTML/CSS.<br>
-✨ **Liquid Level Monitoring System** - Technical simulation using digital logic.<br>
+  ✨ [Falcon 9 NASA Project](https://github.com/Youssefnsr5/-Falcon-9-NASA-Project) - NASA Space Apps Challenge 2025<br>
+  ✨ [E-commerce Landing Page](https://github.com/Youssefnsr5/Landing_Page) - Responsive Design<br>
+  ✨ [HTML & CSS Template](https://github.com/Youssefnsr5/HTML_And-_CSS_Template_One) - Modern Web UI<br>
 </details> 
+
+<details>	
+    <summary><b>📈 Coding Stats</b></summary><br>
+    ✅ Solving problems regularly with C++, Python, and JS.<br>
+    🚀 Focusing on optimization and algorithmic efficiency.
+</details> 
+
+<p align="center">  
+  <a href="https://twitter.com/youssef_badawy">
+    <img src="https://img.shields.io/twitter/follow/youssef_badawy?label=Follow%20Me&style=social">
+  </a>
+  <img src="https://img.shields.io/github/stars/Youssefnsr5?label=Stars&style=social">
+  <img src="https://img.shields.io/github/followers/Youssefnsr5?style=social">
+</p>
 
 <p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://www.linkedin.com/in/youssef-badwi-sdqi-atia/">LinkedIn Details</a><br>
+Do you want to contact me for collaboration opportunities? ⟶ <a href="mailto:nayoussf6@gmail.com">Contact Me</a><br>
 <b> Show some ❤️ by starring some of the repositories!</b>
 </p>
